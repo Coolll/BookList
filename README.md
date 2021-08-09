@@ -71,6 +71,8 @@
 - 68.显微镜下的大明 Sherry
 - 69.两京十五日 Sherry
 - 70.长安十二时辰 Sherry
+- 71.人鼠之间 Sherry
+- 72.局外人 Sherry
 
 
 # 待入书单：
