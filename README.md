@@ -74,6 +74,11 @@
 - 71.人鼠之间 Sherry
 - 72.局外人 Sherry
 - 73.人类群星闪耀时 Sherry
+- 74.学会提问 Sherry
+- 75.共病时代 Sherry
+- 76.信息简史 Sherry
+- 77.文明的冲突 Sherry
+- 78.蛤蟆先生去看心理医生 Raine
 
 
 # 待入书单：
