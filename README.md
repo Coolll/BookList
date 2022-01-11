@@ -75,7 +75,7 @@
 - 72.局外人 Sherry
 - 73.人类群星闪耀时 Sherry
 - 74.学会提问 Sherry
-- 75.共病时代 Sherry
+- 75.共病时代 Sherry 2022.01.04
 - 76.信息简史 Sherry
 - 77.文明的冲突 Sherry
 - 78.蛤蟆先生去看心理医生 Raine
@@ -83,7 +83,7 @@
 - 80.目送 Teemo 20210904
 - 81.重走 Janet&Vivi
 - 82.克莱因壶 Sherry 20211111
-- 83.女性叙事 Cathy 
+- 83.真故 Cathy 20220110
 - 84.给青年诗人的信 Cathy
 
 
